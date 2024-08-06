@@ -1,0 +1,19 @@
+{
+  "name": "projetowhatsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.1",
+    "qrcode-terminal": "^0.12.0",
+    "venom-bot": "^5.1.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js"
+  }
+}
